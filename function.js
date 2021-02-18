@@ -70,4 +70,4 @@ function function_all(nums){
     }
     return even_array;
 }
-nums
+
